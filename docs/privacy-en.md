@@ -2,8 +2,6 @@
 
 Effective date: October 25, 2026
 
-[한국어](privacy-ko.md)
-
 EVroom (the "App") is an iOS app that receives speed and power data from a Tesla vehicle over Bluetooth and shows it on a gauge cluster with a synthesized engine sound. This policy explains what information the App uses, who it is shared with, and what choices you have.
 
 ## 1. Summary
