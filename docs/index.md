@@ -1,6 +1,6 @@
 # EVroom
 
-![EVroom app icon](assets/evroom-icon.png){: width="96" height="96" style="border-radius: 22%;"}
+![EVroom app icon](assets/evroom-icon.png)
 
 Connect to a Tesla vehicle to create a virtual engine sound using real speed and output. You can also enjoy it by inputting sounds tailored to your personal preferences.
 
