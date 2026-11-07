@@ -20,6 +20,7 @@ Maintainers: after merging a sound PR, add one row per file (and delete the "No 
 | File | Description | Download |
 |---|---|---|
 | `evroom-idle-15s.wav` | A steady idle sound of a typical inline-four engine, looped seamlessly for 15 seconds | <a href="sound/evroom-idle-15s.wav" download>Download</a> |
+| `default-synth-2.wav` | Basic Compound Sound 2 | <a href="sound/default-synth-2.wav" download>Download</a> |
 
 ## Contribute a sound
 
