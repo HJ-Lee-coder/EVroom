@@ -22,6 +22,7 @@ Maintainers: after merging a sound PR, add one row per file (and delete the "No 
 | `evroom-idle-15s.wav` | A steady idle sound of a typical inline-four engine, looped seamlessly for 15 seconds | <a href="sound/evroom-idle-15s.wav" download>Download</a> |
 | `default-synth-2.wav` | Basic Compound Sound 2 | <a href="sound/default-synth-2.wav" download>Download</a> |
 | `EVroom-engine-freesound.wav` | vortex-v6, rotor-f6, titan-d6, RPM 1600 | <a href="sound/EVroom-engine-freesound.wav" download>Download</a> |
+| `EVRoom-sports.m4a` | any engine, Base RPM 2000 | <a href="sound/EVRoom-sports.m4a" download>Download</a> |
 
 ## Contribute a sound
 
